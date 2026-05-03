@@ -31,3 +31,4 @@ jobs:
       with:
         name: knx-app
         path: bin/*.apk
+
